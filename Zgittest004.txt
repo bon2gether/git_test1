@@ -1,4 +1,6 @@
-test2
+test004
 
 delete test1.txt
+
+thek에서 수정
 
